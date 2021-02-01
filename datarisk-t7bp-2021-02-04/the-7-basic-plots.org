@@ -1,0 +1,210 @@
+#+TITLE:     DataTecTalk: Os 7 Roteiros
+#+AUTHOR:    Juarez Aires Sampaio Filho
+#+EMAIL:     jz@datarisk.io
+#+DATE:      4 de Fevereiro de 2021
+#+OPTIONS: H:2 toc:t num:t
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Madrid
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col)
+
+* Como cheguei aos 7 Roteiros
+
+** Dificuldade em escrever a história da minha vida
+
+   - Exercício: escrever a história da minha vida. Do dia que nasci
+     até a minha morte.
+   - Eu escrevi uma história, mas não estava certo sobre ela. Sentia
+     que poderia mudá-la a qualquer momento
+
+
+** Story telling for the rescue
+
+   - Eduardo Bellani me sugeriu estudar sobre storytelling (técnicas
+     de contação de história)
+
+** Frustração com a Jornada do Herói
+
+    #+CAPTION: Pensar em termos dessa técnica não me ajudou a princípio
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/the-hero-w-a-thousand-faces.jpg]]
+
+* Os 7 Roteiros
+
+** The 7 Basic Plots - Why We Tell Stories, por Cristopher Booker
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+   [[file:fig/book.png]]
+
+** 3 partes
+
+   - Os principais tipos de roteiro
+   - O que os roteiros tem em comum
+   - A história do mundo pelo framework dos 7 roteiros
+
+** Derrotando o Monstro
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/overcoming-the-monster.png]]
+
+** Derrotando o Monstro
+
+#+ATTR_BEAMER: :overlay +-
+- Antecipação: a ameaça de um monstro se torna conhecida
+- Fase dos sonhos: tudo começa bem para o herói que se prepara para enfrentar o monstro
+- Frustração: ao encontrar o monstro, o herói parece ser derrotado
+- Pesadelo: confronto final com o monstro, onde parece não haver salvação para o herói
+- Escapada da morte: herói destrói o monstro e escapa (possivelmente com um tesouro, ganha a mão de uma princesa, ou herda um reino)
+
+** De trapos à Glória
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/rags-to-riches.png]]
+
+** A jornada
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/the-quest.png]]
+
+** Viagem e Retorno
+
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/voyage-and-return.png]]
+
+** Comédia
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/comedy.png]]
+
+** Tragédia
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/tragedy.png]]
+
+** Renascimento
+
+    #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/rebirth.png]]
+
+* Mais do que apenas roteiros
+
+** E o que os roteiros tem em comum?
+
+- De acordo com Booker, toda boa história é sobre superar o ego
+- Boas história giram ao redor de um desequilíbrio entre 4 valores:
+  poder, ordem, sentimentos altruístas, e intuição.
+- A maioria das história começa com um desbalanço pendendo para poder
+  e ordem (of valores "acima da linha" ou "masculinos").
+- A história acaba em um final feliz quando os falores "abaixo da
+  linha" ou "femininos" foram balanceados.
+
+** O que as histórias querem de nós?
+
+*** Quote do final do livro :B_block:
+    :PROPERTIES:
+    :BEAMER_ENV: block
+    :END:
+
+O herói ou heroína é aquele que nasceu para herdar; que é digno de suceder;
+que deve crescer e receber a tocha da vida daqueles que vieram antes. Tal é
+a essência da tarefa dada a cada um de nós ao chegarmos nesse mundo. É isso
+que as histórias estão tentando nos dizer.
+
+* Mais sobre contação de história
+
+** Outras metodologias
+
+   - [[https://www.amazon.com/dp/091897304X/ref=as_sl_pc_qf_sp_asin_til?tag=hotowrabono-20&linkCode=w00&linkId=RQTQEB7XTG2XNLVD&creativeASIN=091897304X][Dramatica]]
+     - (16 objetivos de roteiro, milhares de combinações possíveis de roteiro)
+   - [[https://www.storymastery.com/][Miachel Hague]]
+   - [[https://www.how-to-write-a-book-now.com/w-plot.html][W-Plot]]
+
+** Há também o problema de performar uma história
+
+   Da série The Great Courses, [[https://www.thegreatcourses.com/courses/the-art-of-storytelling-from-parents-to-professionals.html][The Art of Storytelling]].
+
+* Os 7 Roteiros na minha história
+
+** The Tales of JZ - Derrotando o Monstro
+
+   - A donzela: a região em que nasci (Cariri, no sul do Ceará)
+   - ... em apuros: a região não se modernizou, e hoje não tem
+     capacidade de sustentar a vida.
+   - O monstro (a parte visível ao menos): desigualdade social,
+     sub-desenvolvimento, atraso tecnológico
+   - Minha arma mágica: desenvolvimento de software
+   - O meu plano: treinar jovens programadores, contratá-los, utilizar
+     minha experiência e reputação para vender e gerenciar projetos de
+     software
+
+** The Tales of JZ - O monstro
+
+   #+ATTR_LaTeX: :scale 0.3 :float t :placement [H]
+    [[file:fig/the-monster.png]]
+
+** The Tales of JZ - A Grande Jornada
+
+   - Assim como Sam e Frodo, minha história passa por vários terrenos
+   - Várias aventuras intermediárias são vividas a medida que o
+     roteiro principal se desenvolve (UnB, Houston, Brick Abode, e, no
+     capítulo mais recente, Datarisk)
+
+** The Tales of JZ - De trapos a Glória
+
+   - Nascido numa região particularmente atrasada, em um país sub-desenvolvido,
+     em uma cidade de economia decadente
+   - Por acaso do destino, tive a chance de viajar o mundo me
+     aperfeiçoando, adquirindo armas mágicas, e conhecendo personagens
+     excêntricos
+   - Me torno capaz de projetar e entregar complexos projetos de software,
+     uma arte mundialmente valorizada.
+
+** The Tales of JZ - Viagem e Retorno
+
+   #+ATTR_BEAMER: :overlay +-
+   - Nasci no Cariri
+   - Cresci em Brasília
+   - Estudei em Houston
+   - Vim a Florianópolis trabalhar
+   - Ao longo do caminho acumulei histórias de guerra e armas mágicas
+
+** The Tales of JZ - A comédia da vida
+
+   #+ATTR_BEAMER: :overlay +-
+  - Problemas de comunicação que causam complicações
+    - Na vida profissional
+    - Em casa (quase todos os dias)
+
+** The Tales of JZ - A tragédia que procuro evitar
+
+   #+ATTR_BEAMER: :overlay +-
+   - Que mal traços de personalidade estou falhando em superar e que
+     poderiam trazer a minha ruína? E.g.:
+     - Orgulhos e preconceitos
+     - Desleixo
+     - Preguiça
+   - Existe algum monstro que venho alimentando?
+   - Estou prestando atenção o suficiente na minha saúde física e mental?
+   - Na saúde da minha família?
+   - Estou cuidando do meu reino?
+
+** The Tales of JZ - Renascimento
+
+   #+ATTR_BEAMER: :overlay +-
+   - Que mal traços de personalidade estou falhando em superar e que
+     poderiam trazer a minha ruína? E.g.:
+     - Orgulhos e preconceitos
+     - Desleixo
+     - Preguiça
+   - Existe algum monstro que venho alimentando?
+   - Estou prestando atenção o suficiente na minha saúde física e mental?
+   - Na saúde da minha família?
+   - Estou cuidando do meu reino?
+
+** The Tales of JZ - Renascimento
+
+   #+ATTR_BEAMER: :overlay +-
+   - Tenho mantido amigos e familiares por perto?
+   - Se um dia eu me perder, terei deixado links fortes o suficiente
+     com o meu passado para alguém me venha em resgate?
